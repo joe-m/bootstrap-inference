@@ -1,2 +1,2 @@
 # bootstrap-inference
-Short R script for STT 825
+Short R script for STT 825.  At this point in the course we were investigating resampling methods (mostly bootstrapping) and writing some code to illustrate examples.  The proj_BS.R script is simply part of the larger proj1_code.R that also computes Horvitz-Thomson estimates for parameters. We meant to compare the HT and BS estimates.  We used the "gravity" data set because it was not too big (hence resampling) and had a nice distribution.
